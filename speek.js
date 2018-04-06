@@ -1,4 +1,7 @@
 //http://alice345.hatenablog.com/entry/2014/07/16/001218
+
+// すべてjsでできそう
+//https://pondad.net/iot/2016/02/13/raspberrypi-voice-text-web-api.html
 const fs = require('fs')
 const VoiceText = require('voicetext')
 const voice = new VoiceText('bx3eyggxff8rlcmh:')
